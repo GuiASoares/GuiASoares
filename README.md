@@ -1,7 +1,7 @@
 ### Olá, eu sou o Guilherme!!! 👋
 
-- 🔭 Atualmente trabalho com Infrestrutura Tecnológica.
-- 🌱 Estou cursando o curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio.
+- 🔭 Fazendo faculdade em Ciência da Computação na UNESP.
+- 🌱 Formado no curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio.
 - 💻 Estudo programação, aprendendo diversas linguagens, entre elas: HTML, CSS, JavaScript e PHP.
 
 <div>
