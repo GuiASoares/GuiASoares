@@ -2,7 +2,7 @@
 
 - 🔭 Fazendo faculdade em Ciência da Computação na UNESP.
 - 🌱 Formado no curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio.
-- 💻 Estudo programação, aprendendo diversas linguagens, entre elas: HTML, CSS, JavaScript e PHP.
+- 💻 Estudo programação, aprendendo diversas linguagens, entre elas: HTML, CSS, JavaScript, PHP, C e Java. Também tenho aprendido sobre frameworks, como Laravel, Vue.JS e Spring.
 
 <div>
   <a href="https://github.com/GuiASoares">
@@ -18,7 +18,9 @@
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Bootstrap" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Laravel" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-  <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Vue.JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="Spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 </div>
